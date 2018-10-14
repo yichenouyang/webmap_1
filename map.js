@@ -72,23 +72,23 @@ map.on('click', function(event) {
 let data = [
     {
         location: [-73.98551,40.74857], 
-        content: 'Empire State Building'
+        content: 'Skyscraper in Midtown:</br>Empire State Building'
     },
     {
         location: [-73.99247,40.75138], 
-        content: 'One Penn Plaza'
+        content: 'Skyscraper in Midtown:</br>One Penn Plaza'
     },
     {
         location: [-73.99025,40.75637], 
-        content: 'New York Times Building'
+        content: 'Skyscraper in Midtown:</br>New York Times Building'
     },
     {
         location: [-74.00202,40.75317], 
-        content: 'PureWow HQ'
+        content: 'Skyscraper in Midtown:</br>PureWow HQ'
     },
     {
         location: [-73.98424,40.75515], 
-        content: 'One Byrant Park'
+        content: 'Skyscraper in Midtown:</br>One Byrant Park'
     },
     ]
 
